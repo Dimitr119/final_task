@@ -34,17 +34,20 @@ LIMIT 1;
 
 ## DAGs Overview
 
-### Process Sales DAG
-[![Process Sales DAG](Снимок экрана 2024-03-05 в 10.39.41.png)](https://files.oaiusercontent.com/file-lPxWkIgivD9KKiW0zvBf4D4L?se=2024-03-05T09%3A49%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D299%2C%20immutable&rscd=attachment%3B%20filename%3Dimage.png&sig=O8WtyLHEVBrkLh%2BSreyOymaZxdYJS7DeIfNsjk8l1sA%3D)
+### Process Sales Pipeline
+![image](https://github.com/Dimitr119/final_task/assets/53143818/ef60efc3-e6d1-485a-ba33-df6a76f9e516)
 
-### Process Customers DAG
-![Process Customers DAG](Снимок экрана 2024-03-05 в 10.40.45.png)
+
+### Process Customers Pipeline
+![image](https://github.com/Dimitr119/final_task/assets/53143818/66d68706-5974-4519-b2a3-69d8504b5b91)
+
 
 ### Process User Profiles Pipeline
-![Process User Profiles Pipeline](Снимок экрана 2024-03-05 в 10.43.22.png)
+![image](https://github.com/Dimitr119/final_task/assets/53143818/191677c0-bc25-48cc-9535-c3683fae4ba2)
+
 
 ### Enrich Customers Gold Pipeline
-![Enri![image](https://github.com/Dimitr119/final_task/assets/53143818/76bc8813-8557-4476-a295-0cb118858082)
-ch Customers Gold Pipeline](Снимок экрана 2024-03-05 в 10.43.50.png)
+![image](https://github.com/Dimitr119/final_task/assets/53143818/9635a7aa-161b-41d3-bf77-55856df64e56)
+
 
 Додаткову інформацію та завдання можна знайти в іншому [README.md](https://github.com/robot-dreams-code/Data-Engineering-Golovata/blob/main/final_project/README.md) на GitHub.
